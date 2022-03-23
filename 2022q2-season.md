@@ -1,6 +1,5 @@
 # Spring 2022 Season Lineup Plans
 
-|           |                                             |                                      |       Status      ||
 |    Type   |                    Title                    |                 Link                 | kyoudai | Inugirlz |
 | --------- | ------------------------------------------- | ------------------------------------ | :-----: | :------: |
 |           | Aharen-san wa Hakarenai                     | https://www.livechart.me/anime/10722 |   ？    |          |
@@ -59,4 +58,3 @@
 | cont      | Yatogame-chan Kansatsu Nikki 4th Season     | https://www.livechart.me/anime/10904 |   ー    |          |
 | franchise | Yu-Gi-Oh! GO RUSH!!                         | https://www.livechart.me/anime/10955 |   ー    |          |
 |           | Yuusha, Yamemasu                            | https://www.livechart.me/anime/10842 |   ＋    |          |
-| --------- | ------------------------------------------- | ------------------------------------ | ------- | -------- |
