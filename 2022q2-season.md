@@ -1,8 +1,8 @@
 # Spring 2022 Season Lineup Plans
 
-| Type      | Title                                       | Link                                 | kyoudai | Inugirlz |
+|    Type   |                    Title                    |                 Link                 | kyoudai | Inugirlz |
 | --------- | ------------------------------------------- | ------------------------------------ | :-----: | :------: |
-|           | Aharen-san wa Hakarenai                     | https://www.livechart.me/anime/10722 |   ？    |    +     |
+|           | Aharen-san wa Hakarenai                     | https://www.livechart.me/anime/10722 |   Ｔ    |    +     |
 |           | AOASHI                                      | https://www.livechart.me/anime/10612 |   ＋    |    +     |
 |           | Atasha Kawashiri Kodama da yo               | https://www.livechart.me/anime/10779 |   ー    |    -     |
 |           | Bakugan: Evolutions                         | https://www.livechart.me/anime/11118 |   ー    |    -     |
@@ -16,7 +16,7 @@
 |           | Deaimon                                     | https://www.livechart.me/anime/10541 |   ＋    |    +     |
 | franchise | Digimon Ghost Game                          | https://www.livechart.me/anime/10729 |   ー    |    -     |
 | franchise | Duel Masters King MAX                       | https://www.livechart.me/anime/11086 |   ー    |    -     |
-|           | ESTAB LIFE: GREAT ESCAPE                    | https://www.livechart.me/anime/10807 |   ？    |    -     |
+|           | ESTAB LIFE: GREAT ESCAPE                    | https://www.livechart.me/anime/10807 |   ＋    |    -     |
 |           | Gaikotsu Kishi-sama…                        | https://www.livechart.me/anime/10535 |   ？    |    ?     |
 |           | Gunjou no Fanfare                           | https://www.livechart.me/anime/10723 |   ＋    |    +     |
 |           | Healer Girl                                 | https://www.livechart.me/anime/10565 |   ？    |    ?     |
@@ -42,9 +42,9 @@
 | spin-off  | Meitantei Conan: Zero no Nichijou           | https://www.livechart.me/anime/10827 |   ー    |    -     |
 |           | Ohiru no Shocker-san                        | https://www.livechart.me/anime/10938 |   ー    |    -     |
 |           | ONIPAN!                                     | https://www.livechart.me/anime/11061 |   ？    |    -     |
-|           | Otome Game Sekai wa Mob ni Kibishii…        | https://www.livechart.me/anime/10906 |   ？    |    +     |
+|           | Otome Game Sekai wa Mob ni Kibishii…        | https://www.livechart.me/anime/10906 |   Ｔ    |    +     |
 |           | Paripi Koumei                               | https://www.livechart.me/anime/10843 |   ？    |    +     |
-| cont      | Rikei ga Koi ni Ochita no de Shoumei…       | https://www.livechart.me/anime/10185 |   ＋    |    ?     |
+| cont      | Rikei ga Koi ni Ochita no de Shoumei…       | https://www.livechart.me/anime/10185 |   ー    |    ?     |
 |           | RPG Fudousan                                | https://www.livechart.me/anime/10435 |   ー    |    -     |
 |           | Shachiku-san wa Youjo Yuurei ni…            | https://www.livechart.me/anime/10639 |   ー    |    -     |
 | franchise | Shadowverse Flame                           | https://www.livechart.me/anime/10830 |   ー    |    -     |
