@@ -6,7 +6,7 @@
 |           | AOASHI                                      | https://www.livechart.me/anime/10612 |   ＋    |    +     |
 |           | Atasha Kawashiri Kodama da yo               | https://www.livechart.me/anime/10779 |   ー    |    -     |
 |           | Bakugan: Evolutions                         | https://www.livechart.me/anime/11118 |   ー    |    -     |
-|           | BIRDIE WING -Golf Girls' Story-             | https://www.livechart.me/anime/10859 |   ー    |    -     |
+|           | BIRDIE WING -Golf Girls' Story-             | https://www.livechart.me/anime/10859 |   ー    |    +     |
 | cont      | BORUTO: NARUTO NEXT GENERATIONS             | https://www.livechart.me/anime/2476  |   ＋    |    -     |
 | cont      | BUILD-DIVIDE -#FFFFFF- CODE WHITE           | https://www.livechart.me/anime/10539 |   ー    |    -     |
 |           | Chiikawa                                    | https://www.livechart.me/anime/10860 |   ー    |    -     |
