@@ -1,5 +1,16 @@
 # Spring 2022 Season Lineup Plans
 
+#### Legend
+
+| Symbol |        Meaning        |
+| :----: | --------------------- |
+|   Ｔ   | tentatively watchiing |
+|   Ｄ   | dropped               |
+|   ＋   | watching              |
+|   ー   | not watching          |
+|   ？   | undecided             |
+
+### List of programs
 |    Type   |                    Title                    |                 Link                 | kyoudai | Inugirlz |
 | --------- | ------------------------------------------- | ------------------------------------ | :-----: | :------: |
 |           | Aharen-san wa Hakarenai                     | https://www.livechart.me/anime/10722 |   Ｔ    |    +     |
@@ -19,7 +30,7 @@
 |           | ESTAB LIFE: GREAT ESCAPE                    | https://www.livechart.me/anime/10807 |   ＋    |    -     |
 |           | Gaikotsu Kishi-sama…                        | https://www.livechart.me/anime/10535 |   ？    |    ?     |
 |           | Gunjou no Fanfare                           | https://www.livechart.me/anime/10723 |   ＋    |    +     |
-|           | Healer Girl                                 | https://www.livechart.me/anime/10565 |   ？    |    ?     |
+|           | Healer Girl                                 | https://www.livechart.me/anime/10565 |   ー    |    ?     |
 |           | Heroine Tarumono!…                          | https://www.livechart.me/anime/10765 |   ー    |    +     |
 | cont      | Honzuki no Gekokujou…                       | https://www.livechart.me/anime/10065 |   ＋    |    +     |
 |           | Jantama Pong                                | https://www.livechart.me/anime/11022 |   ー    |    -     |
