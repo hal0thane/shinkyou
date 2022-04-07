@@ -2,7 +2,7 @@
 
 #### Legend
 
-| Symbol |        Meaning        |
+| Symbol | Meaning               |
 | :----: | --------------------- |
 |   Ｔ   | tentatively watchiing |
 |   Ｄ   | dropped               |
@@ -11,13 +11,14 @@
 |   ？   | undecided             |
 
 ### List of programs
+
 | Type      | Title                                       | Link                                 | kyoudai | Inugirlz |
 | --------- | ------------------------------------------- | ------------------------------------ | :-----: | :------: |
-|           | Aharen-san wa Hakarenai                     | https://www.livechart.me/anime/10722 |   Ｔ    |    +     |
+|           | Aharen-san wa Hakarenai                     | https://www.livechart.me/anime/10722 |   Ｔ    |    T     |
 |           | AOASHI                                      | https://www.livechart.me/anime/10612 |   ＋    |    +     |
 |           | Atasha Kawashiri Kodama da yo               | https://www.livechart.me/anime/10779 |   ー    |    -     |
 |           | Bakugan: Evolutions                         | https://www.livechart.me/anime/11118 |   ー    |    -     |
-|           | BIRDIE WING -Golf Girls' Story-             | https://www.livechart.me/anime/10859 |   ー    |    -     |
+|           | BIRDIE WING -Golf Girls' Story-             | https://www.livechart.me/anime/10859 |   ー    |    +     |
 | cont      | BORUTO: NARUTO NEXT GENERATIONS             | https://www.livechart.me/anime/2476  |   ＋    |    -     |
 | cont      | BUILD-DIVIDE -#FFFFFF- CODE WHITE           | https://www.livechart.me/anime/10539 |   ー    |    -     |
 |           | Chiikawa                                    | https://www.livechart.me/anime/10860 |   ー    |    -     |
@@ -53,8 +54,8 @@
 | spin-off  | Meitantei Conan: Zero no Nichijou           | https://www.livechart.me/anime/10827 |   ー    |    -     |
 |           | Ohiru no Shocker-san                        | https://www.livechart.me/anime/10938 |   ー    |    -     |
 |           | ONIPAN!                                     | https://www.livechart.me/anime/11061 |   ？    |    -     |
-|           | Otome Game Sekai wa Mob ni Kibishii…        | https://www.livechart.me/anime/10906 |   Ｔ    |    +     |
-|           | Paripi Koumei                               | https://www.livechart.me/anime/10843 |   ？    |    +     |
+|           | Otome Game Sekai wa Mob ni Kibishii…        | https://www.livechart.me/anime/10906 |   Ｔ    |    T     |
+|           | Paripi Koumei                               | https://www.livechart.me/anime/10843 |   ？    |    T     |
 | cont      | Rikei ga Koi ni Ochita no de Shoumei…       | https://www.livechart.me/anime/10185 |   ー    |    ?     |
 |           | RPG Fudousan                                | https://www.livechart.me/anime/10435 |   ー    |    -     |
 |           | Shachiku-san wa Youjo Yuurei ni…            | https://www.livechart.me/anime/10639 |   ー    |    -     |
