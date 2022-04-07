@@ -11,7 +11,7 @@
 |   ？   | undecided             |
 
 ### List of programs
-|    Type   |                    Title                    |                 Link                 | kyoudai | Inugirlz |
+| Type      | Title                                       | Link                                 | kyoudai | Inugirlz |
 | --------- | ------------------------------------------- | ------------------------------------ | :-----: | :------: |
 |           | Aharen-san wa Hakarenai                     | https://www.livechart.me/anime/10722 |   Ｔ    |    +     |
 |           | AOASHI                                      | https://www.livechart.me/anime/10612 |   ＋    |    +     |
@@ -59,7 +59,7 @@
 |           | RPG Fudousan                                | https://www.livechart.me/anime/10435 |   ー    |    -     |
 |           | Shachiku-san wa Youjo Yuurei ni…            | https://www.livechart.me/anime/10639 |   ー    |    -     |
 | franchise | Shadowverse Flame                           | https://www.livechart.me/anime/10830 |   ー    |    -     |
-|           | Shijou Saikyou no Daimaou, Murabito A…      | https://www.livechart.me/anime/10451 |   ＋    |    +     |
+|           | Shijou Saikyou no Daimaou, Murabito A…      | https://www.livechart.me/anime/10451 |   Ｄ    |    +     |
 | reboot    | Shin Ikki Tousen                            | https://www.livechart.me/anime/10674 |   ー    |    -     |
 |           | Shokei Shoujo no Virgin Road                | https://www.livechart.me/anime/10374 |   ＋    |    -     |
 |           | SPY x FAMILY                                | https://www.livechart.me/anime/10456 |   ＋    |    +     |
