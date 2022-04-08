@@ -24,7 +24,7 @@
 |      | Gaikotsu Kishi-sama…                        | https://www.livechart.me/anime/10535 |   ？    |    ?     |
 |      | Gunjou no Fanfare                           | https://www.livechart.me/anime/10723 |   ＋    |    +     |
 |      | Healer Girl                                 | https://www.livechart.me/anime/10565 |   ー    |    ?     |
-|      | Heroine Tarumono!…                          | https://www.livechart.me/anime/10765 |   ー    |    +     |
+|      | Heroine Tarumono!…                          | https://www.livechart.me/anime/10765 |   ＋    |    +     |
 | cont | Honzuki no Gekokujou…                       | https://www.livechart.me/anime/10065 |   ＋    |    +     |
 | cont | Kaguya-sama wa Kokurasetai -Ultra Romantic- | https://www.livechart.me/anime/10191 |   ＋    |    +     |
 |      | Kakkou no Iinazuke                          | https://www.livechart.me/anime/10346 |   ＋    |    +     |
