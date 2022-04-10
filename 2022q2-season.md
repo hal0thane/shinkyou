@@ -49,3 +49,4 @@
 | cont | TIGER & BUNNY 2                             | https://www.livechart.me/anime/3038  |   ー    |    +     |
 |      | Tomodachi Game                              | https://www.livechart.me/anime/10855 |   Ｔ    |    +     |
 |      | Yuusha, Yamemasu                            | https://www.livechart.me/anime/10842 |   ＋    |    +     |
+
