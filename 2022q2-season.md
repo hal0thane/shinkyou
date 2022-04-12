@@ -33,7 +33,7 @@
 |      | Kawaii dake ja Nai Shikimori-san            | https://www.livechart.me/anime/10309 |   ＋    |    +     |
 |      | Koi wa Sekai Seifuku no Ato de              | https://www.livechart.me/anime/10507 |   Ｘ    |    ?     |
 | cont | Komi-san wa, Comyushou desu. 2nd Season     | https://www.livechart.me/anime/10962 |   ー    |    +     |
-|      | Kono Healer, Mendokusai                     | https://www.livechart.me/anime/10526 |   ？    |    ?     |
+|      | Kono Healer, Mendokusai                     | https://www.livechart.me/anime/10526 |   ー    |    ?     |
 |      | Kunoichi Tsubaki no Mune no Uchi            | https://www.livechart.me/anime/10881 |   ？    |    -     |
 | cont | Kyoukai Senki Part 2                        | https://www.livechart.me/anime/10974 |   ー    |    ?     |
 |      | Love All Play                               | https://www.livechart.me/anime/10740 |   ＋    |    +     |
