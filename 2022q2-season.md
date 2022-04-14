@@ -18,7 +18,7 @@
 | ---- | ------------------------------------------- | ------------------------------------ | :-----: | :------: |
 |      | Aharen-san wa Hakarenai                     | https://www.livechart.me/anime/10722 |   Ｔ    |    T     |
 |      | AOASHI                                      | https://www.livechart.me/anime/10612 |   ＋    |    +     |
-|      | BIRDIE WING -Golf Girls' Story-             | https://www.livechart.me/anime/10859 |   ？    |    +     |
+|      | BIRDIE WING -Golf Girls' Story-             | https://www.livechart.me/anime/10859 |   ＋    |    +     |
 | cont | BORUTO: NARUTO NEXT GENERATIONS             | https://www.livechart.me/anime/2476  |   ＋    |    -     |
 |      | Dance Dance Danseur                         | https://www.livechart.me/anime/10518 |   ＋    |    +     |
 |      | Deaimon                                     | https://www.livechart.me/anime/10541 |   ＋    |    +     |
@@ -38,7 +38,7 @@
 | cont | Kyoukai Senki Part 2                        | https://www.livechart.me/anime/10974 |   ー    |    ?     |
 |      | Love All Play                               | https://www.livechart.me/anime/10740 |   ＋    |    +     |
 |      | Mahoutsukai Reimeiki                        | https://www.livechart.me/anime/10558 |   Ｄ    |    +     |
-|      | Otome Game Sekai wa Mob ni Kibishii…        | https://www.livechart.me/anime/10906 |   Ｔ    |    T     |
+|      | Otome Game Sekai wa Mob ni Kibishii…        | https://www.livechart.me/anime/10906 |   ＋    |    T     |
 |      | Paripi Koumei                               | https://www.livechart.me/anime/10843 |   ？    |    T     |
 | cont | Rikei ga Koi ni Ochita no de Shoumei…       | https://www.livechart.me/anime/10185 |   ー    |    ?     |
 | cont | Ryman's Club                                | https://www.livechart.me/anime/10847 |   ＋    |    +     |
@@ -47,5 +47,5 @@
 |      | SPY x FAMILY                                | https://www.livechart.me/anime/10456 |   ＋    |    +     |
 | cont | Tate no Yuusha no Nariagari Season 2        | https://www.livechart.me/anime/9578  |   ？    |    +     |
 | cont | TIGER & BUNNY 2                             | https://www.livechart.me/anime/3038  |   ー    |    +     |
-|      | Tomodachi Game                              | https://www.livechart.me/anime/10855 |   Ｔ    |    +     |
-|      | Yuusha, Yamemasu                            | https://www.livechart.me/anime/10842 |   ＋    |    +     |
+|      | Tomodachi Game                              | https://www.livechart.me/anime/10855 |   ＋    |    +     |
+|      | Yuusha, Yamemasu                            | https://www.livechart.me/anime/10842 |   Ｔ    |    +     |
