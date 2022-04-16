@@ -34,18 +34,18 @@
 |      | Koi wa Sekai Seifuku no Ato de              | https://www.livechart.me/anime/10507 |   Ｘ    |    ?     |
 | cont | Komi-san wa, Comyushou desu. 2nd Season     | https://www.livechart.me/anime/10962 |   ー    |    +     |
 |      | Kono Healer, Mendokusai                     | https://www.livechart.me/anime/10526 |   ー    |    ?     |
-|      | Kunoichi Tsubaki no Mune no Uchi            | https://www.livechart.me/anime/10881 |   ？    |    -     |
+|      | Kunoichi Tsubaki no Mune no Uchi            | https://www.livechart.me/anime/10881 |   ー    |    -     |
 | cont | Kyoukai Senki Part 2                        | https://www.livechart.me/anime/10974 |   ー    |    ?     |
 |      | Love All Play                               | https://www.livechart.me/anime/10740 |   ＋    |    +     |
 |      | Mahoutsukai Reimeiki                        | https://www.livechart.me/anime/10558 |   Ｄ    |    +     |
 |      | Otome Game Sekai wa Mob ni Kibishii…        | https://www.livechart.me/anime/10906 |   ＋    |    T     |
-|      | Paripi Koumei                               | https://www.livechart.me/anime/10843 |   ？    |    T     |
+|      | Paripi Koumei                               | https://www.livechart.me/anime/10843 |   Ｔ    |    T     |
 | cont | Rikei ga Koi ni Ochita no de Shoumei…       | https://www.livechart.me/anime/10185 |   ー    |    ?     |
 | cont | Ryman's Club                                | https://www.livechart.me/anime/10847 |   ＋    |    +     |
 |      | Shijou Saikyou no Daimaou, Murabito A…      | https://www.livechart.me/anime/10451 |   Ｘ    |    +     |
 |      | Shokei Shoujo no Virgin Road                | https://www.livechart.me/anime/10374 |   ＋    |    -     |
 |      | SPY x FAMILY                                | https://www.livechart.me/anime/10456 |   ＋    |    +     |
-| cont | Tate no Yuusha no Nariagari Season 2        | https://www.livechart.me/anime/9578  |   ？    |    +     |
+| cont | Tate no Yuusha no Nariagari Season 2        | https://www.livechart.me/anime/9578  |   Ｄ    |    +     |
 | cont | TIGER & BUNNY 2                             | https://www.livechart.me/anime/3038  |   ー    |    +     |
 |      | Tomodachi Game                              | https://www.livechart.me/anime/10855 |   ＋    |    +     |
 |      | Yuusha, Yamemasu                            | https://www.livechart.me/anime/10842 |   Ｔ    |    +     |
