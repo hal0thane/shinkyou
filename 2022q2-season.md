@@ -43,7 +43,7 @@
 | cont | Rikei ga Koi ni Ochita no de Shoumei…       | https://www.livechart.me/anime/10185 |   ー    |    ?     |
 | cont | Ryman's Club                                | https://www.livechart.me/anime/10847 |   ＋    |    +     |
 |      | Shijou Saikyou no Daimaou, Murabito A…      | https://www.livechart.me/anime/10451 |   Ｘ    |    +     |
-|      | Shokei Shoujo no Virgin Road                | https://www.livechart.me/anime/10374 |   ー    |    -     |
+|      | Shokei Shoujo no Virgin Road                | https://www.livechart.me/anime/10374 |   Ｘ    |    -     |
 |      | SPY x FAMILY                                | https://www.livechart.me/anime/10456 |   ＋    |    +     |
 | cont | Tate no Yuusha no Nariagari Season 2        | https://www.livechart.me/anime/9578  |   Ｄ    |    +     |
 | cont | TIGER & BUNNY 2                             | https://www.livechart.me/anime/3038  |   ー    |    +     |
