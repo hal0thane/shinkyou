@@ -16,7 +16,7 @@
 
 | Type | Title                                       | Link                                 | kyoudai | Inugirlz |
 | ---- | ------------------------------------------- | ------------------------------------ | :-----: | :------: |
-|      | Aharen-san wa Hakarenai                     | https://www.livechart.me/anime/10722 |   Ｔ    |    T     |
+|      | Aharen-san wa Hakarenai                     | https://www.livechart.me/anime/10722 |   Ｘ    |    T     |
 |      | AOASHI                                      | https://www.livechart.me/anime/10612 |   ＋    |    +     |
 |      | BIRDIE WING -Golf Girls' Story-             | https://www.livechart.me/anime/10859 |   ＋    |    +     |
 | cont | BORUTO: NARUTO NEXT GENERATIONS             | https://www.livechart.me/anime/2476  |   ＋    |    -     |
