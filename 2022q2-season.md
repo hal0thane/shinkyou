@@ -1,3 +1,5 @@
+<!-- -*- st-font_size: 15; st-line_numbers: true; st-gutter: true; st-rulers: [ ]; st-tab-size: 4; st-soft-tab-size: 4; st-translate_tabs_to_spaces: false; st-use_tab_stops: true; st-word_wrap: false; st-indent_subsequent_lines: true; st-highlight_gutter: true; st-highlight_line_number: true; st-draw_whitespace: all_mixed; -*- -->
+
 # Spring 2022 Season Lineup Plans
 
 #### Legend
