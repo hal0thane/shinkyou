@@ -6,7 +6,7 @@
 Another season that looks like crap, other than the sequels… Do they no longer make good anime? Yeah… I know they do. It's just
 easy to forget sometimes.
 
-## List of programs[list]
+## List of programs
 
 <!-- NOTE: If you wish to add notes anywhere in the table, please add them to the Notes column following your name. Use a format similar to
 	the one I am using, but with your initial instead, i.e., [^s1], [^s2], etc. Then, just add them below my footnotes at the bottom,
@@ -69,7 +69,7 @@ easy to forget sometimes.
 
 ## Legend
 
-### Watch status[status]
+### Watch status
 | Symbol | Meaning              |
 | :----: | -------------------- |
 |   →    | already watching     |
@@ -82,7 +82,7 @@ easy to forget sometimes.
 
 
 
-### Program type[type]
+### Program type
 | Abbrev | Meaning                                          |
 | :----: | :----------------------------------------------- |
 |  con   | continuing from previous season                  |
