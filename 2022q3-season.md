@@ -1,65 +1,6 @@
 <!-- -*- st-font_size: 15; st-line_numbers: true; st-gutter: true; st-rulers: [ ]; st-tab-size: 4; st-soft-tab-size: 4; st-translate_tabs_to_spaces: false; st-use_tab_stops: true; st-word_wrap: false; st-indent_subsequent_lines: true; st-highlight_gutter: true; st-highlight_line_number: true; st-draw_whitespace: all_mixed; -*- -->
 
 
-<style type="text/css">
-	thead>tr>:nth-child(5),
-	thead>tr>:nth-child(7) {
-		background-color:  rgba(210,230,250,1.0);
-	}
-	tbody>tr>:nth-child(5),
-	tbody>tr>:nth-child(7) {
-		background-color:  rgba(210, 230, 250, 0.4);
-	}
-	thead>tr>:nth-child(6),
-	thead>tr>:nth-child(8) {
-		background-color:  rgba(250,250,210,1.0);
-	}
-	tbody>tr>:nth-child(6),
-	tbody>tr>:nth-child(8) {
-		background-color: rgba(250, 250, 210, 0.4);
-	}
-	tbody>tr>td {
-		font-size: 13px !important;
-	}
-	#list + table>tbody>tr>:nth-child(2) {
-		font-size: 14px !important;
-		font-weight: 700;
-	}
-	tbody>tr>:nth-child(5),
-	tbody>tr>:nth-child(7) {
-		font-size:  150% !important;
-	}
-	#wrapper h2 {
-		border-bottom: none;
-	}
-	.footnote {
-		font-size: 150% !important;
-	}
-
-	#status + table thead tr>:first-child {
-		background-color:  rgba(250, 226, 201, 1.0);
-	}
-	#status + table thead tr>:nth-child(2) {
-		background-color: rgb(240, 240, 240);
-	}
-	
-	#status + table tbody tr>:first-child {
-		font-weight: 700;
-		background-color: rgba(250, 226, 201, 0.4);
-	}
-
-	#type + table thead tr>:first-child {
-		background-color: rgba(208, 249, 202, 1.0);
-	}
-	#type + table tbody tr>:first-child {
-		font-weight: 700;
-		background-color: rgba(208, 249, 202, 0.4);
-	}
-	#type + table thead tr>:nth-child(2) {
-		background-color: rgb(240, 240, 240);
-	}
-</style>
-
 # Summer 2022 Season Lineup Plans
 
 Another season that looks like crap, other than the sequels… Do they no longer make good anime? Yeah… I know they do. It's just
