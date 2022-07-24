@@ -24,7 +24,7 @@ easy to forget sometimes.
 |       | [Fuuto Tantei](https://bit.ly/3ObnUoW)                                | 2022-07-31 | Sun |    ᴛ    |      |       |        |       |      |
 | short | [Hanabi-chan wa Okuregachi](https://bit.ly/3mzOn3y)                   | 2022-07-10 | Sun |    ✘    |      |       |        |       |      |
 |  seq  | [Hataraku Maou-sama! 2nd Season](https://bit.ly/3mIuQxL)              | 2022-07-14 | Thu |    ✓    |  ⁓   | [^k5] |        |       |      |
-|       | [Hoshi no Samidare](https://bit.ly/3HelVhd)                           | 2022-07-08 | Fri |    ⁇    |  ᴛ   |       |        |       |      |
+|       | [Hoshi no Samidare](https://bit.ly/3HelVhd)                           | 2022-07-08 | Fri |    ✓    |  ⁇   |       |        |       |      |
 |       | [Isekai Meikyuu de Harem wo](https://bit.ly/3mAysBU)                  | 2022-07-06 | Wed |    ✘    |      |       |        |       |      |
 |       | [Isekai Ojisan](https://bit.ly/3MI3Jxz)                               | 2022-07-06 | Wed |    ✓    |      |       |        |       |      |
 |       | [Isekai Yakkyoku](https://bit.ly/3NXvaoJ)                             | 2022-07-10 | Sun |    ✓    |      |       |        |       |      |
@@ -40,7 +40,7 @@ easy to forget sometimes.
 |  frn  | [Love Live! Superstar!! 2nd Season](https://bit.ly/3NJhKMG)           | 2022-07-16 | Sat |    ✘    |      |       |        |       |      |
 |       | [Luminous Witches](https://bit.ly/3xGSWze)                            | 2022-07-03 | Sun |    ✘    |      |       |        |       |      |
 |       | [Lycoris Recoil](https://bit.ly/3xFDqUs)                              | 2022-07-02 | Sat |    ▼    |  ⁇   |       |        |       |      |
-|  seq  | [MADE IN ABYSS: Retsujitsu no Ougonkyo](https://bit.ly/3mHEEIk)       | 2022-07-06 | Wed |    ⁓    |      | [^k1] |        |       |      |
+|  seq  | [MADE IN ABYSS: Retsujitsu no Ougonkyo](https://bit.ly/3mHEEIk)       | 2022-07-06 | Wed |    ✓    |  ⁓   |       |        |       |      |
 |       | [Mamahaha no Tsurego ga Motokano datta](https://bit.ly/3mHEEIk)       | 2022-07-06 | Wed |    ✓    |      |       |        |       |      |
 |       | [Musashino!](https://bit.ly/3mBMNhD)                                  | 2022-07-02 | Sat |    ✘    |      |       |        |       |      |
 |  seq  | [ORIENT: Awajishima Gekitou-hen](https://bit.ly/3NG7V2b)              | 2022-07-11 | Mon |    ✓    |      |       |        |       |      |
@@ -53,7 +53,7 @@ easy to forget sometimes.
 |       | [SHINEPOST](https://bit.ly/3xoPtnG)                                   | 2022-07-12 | Tue |    ✘    |      |       |        |       |      |
 |       | [Shoot! Goal to the Future](https://bit.ly/3MFGBjg)                   | 2022-07-02 | Sat |    ▼    |  ✓   |       |        |       |      |
 |       | [Soredemo Ayumu wa Yosetekuru](https://bit.ly/3tpH6XS)                | 2022-07-07 | Thu |    ᴛ    |  ✓   |       |        |       |      |
-|       | [Tensei Kenja no Isekai Life…](https://bit.ly/3O9asSa)                | 2022-07-04 | Mon |    ✓    |  ᴛ   |       |        |       |      |
+|       | [Tensei kenja no Isekai Life…](https://bit.ly/3O9asSa)                | 2022-07-04 | Mon |    ᴛ    |  ✓   |       |        |       |      |
 |       | [Teppen—!!!!!!!!!!!!!!!](https://bit.ly/3ttBkEA)                      | 2022-07-02 | Sat |    ▼    |  ⁇   |       |        |       |      |
 |       | [Tokyo Mew Mew New~](https://bit.ly/3zwoFEJ)                          | 2022-07-05 | Tue |    ✘    |      |       |        |       |      |
 |  seq  | [Uta no Prince-sama Maji Love STARISH…](https://bit.ly/3Ow9sru)       | 2022-07-30 | Sat |    ✘    |      |       |        |       |      |
@@ -70,15 +70,15 @@ easy to forget sometimes.
 ## Legend
 
 ### Watch status
-| Symbol | Meaning              |
-| :----: | -------------------- |
-|   →    | already watching     |
-|   ✓    | plan to watch        |
-|   ᴛ    | tentatively watching |
-|   ⁇    | undecided            |
-|   ⁓    | deferred until later |
-|   ✘    | not watching         |
-|   ▼    | dropped              |
+| Symbol |        Meaning         |
+| :----: | ---------------------- |
+|   →    | already watching       |
+|   ✓    | plan to watch/watching |
+|   ᴛ    | tentatively watching   |
+|   ⁇    | undecided              |
+|   ⁓    | deferred until later   |
+|   ✘    | not watching           |
+|   ▼    | dropped                |
 
 
 
@@ -93,8 +93,6 @@ easy to forget sometimes.
 
 
 ## Notes
-
-[^k1]: Will have to refresh myself up to this point, so I might be behind. If I am able to refresh before it begins airing, I'll switch it to Watching.
 
 [^k2]: Cute shota! Cute shota!
 
